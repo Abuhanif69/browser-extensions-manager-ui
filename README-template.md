@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/profile/Abuhanif69/solutions
-- Live Site URL: https://your-live-site-url
+- Live Site URL:https://abuhanif-browserextension-manager-ui.netlify.app/
 
 ---
 
